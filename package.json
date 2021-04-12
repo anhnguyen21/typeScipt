@@ -1,0 +1,26 @@
+{
+  "name": "tpcript",
+  "version": "1.0.0",
+  "description": "demo typescript",
+  "main": "index.js",
+  "dependencies": {
+    "@types/express": "^4.17.11",
+    "express": "^4.17.1",
+    "knex": "^0.95.4",
+    "objection": "^2.2.15",
+    "pg": "^8.5.1",
+    "ts-node-dev": "^1.1.6",
+    "uuidv4": "^6.2.7"
+  },
+  "devDependencies": {
+    "@types/node": "^14.14.37",
+    "nodemon": "^2.0.7",
+    "ts-node": "^9.1.1",
+    "typescript": "^4.2.4"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
